@@ -1,1 +1,1 @@
-Simple program I wrote to learn more about permissions and broadcast receivers. Displays attractions and restaurants throughout Chicago.
+Simple program I wrote to learn more about permissions and broadcast receivers. Displays attractions and restaurants throughout Chicago. App A1 has two buttons, attractions or restaurants. Each button spawns a new activity in A2.
